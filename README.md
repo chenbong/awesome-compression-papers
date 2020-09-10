@@ -1,4 +1,4 @@
-# Awesome Model Compression and Acceleration
+# Awesome-compression-papers
 
 - Paper collection about model compression and acceleration:
   - Pruning
