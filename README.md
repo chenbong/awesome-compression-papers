@@ -92,7 +92,7 @@
 
 
 
-### 2020-ICML (10)
+### 2020-ICML (11)
 
 1. 2020-ICML-[PENNI: Pruned Kernel Sharing for Efficient CNN Inference](https://arxiv.org/abs/2005.07133)
 2. 2020-ICML-[Operation-Aware Soft Channel Pruning using Differentiable Masks](https://arxiv.org/abs/2007.03938)
