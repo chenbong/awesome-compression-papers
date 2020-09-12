@@ -17,17 +17,17 @@
 
 ##### 1.1. Filter Pruning
 
+1. 2020-CVPRo-[HRank: Filter Pruning Using High-Rank Feature Map](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_HRank_Filter_Pruning_Using_High-Rank_Feature_Map_CVPR_2020_paper.pdf) [[Code](https://github.com/lmbxmu/HRank)]
 2. 2020-CVPR-[Learning Filter Pruning Criteria for Deep Convolutional Neural Networks Acceleration](https://he-y.github.io/publication/2020_cvpr_lfpc/2020_CVPR_LFPC.pdf)
 
-6. 2020-CVPR-[Learning Filter Pruning Criteria for Deep Convolutional Neural Networks Acceleration](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Learning_Filter_Pruning_Criteria_for_Deep_Convolutional_Neural_Networks_Acceleration_CVPR_2020_paper.pdf)
 
 ##### 1.2. Weight Pruning
 
 #### 2. Quantization
 
-##### 2.1 Multi-bit quantization
+##### 2.1. Multi-bit quantization
 
-##### 2.2 1-bit quantization
+##### 2.2. 1-bit quantization
 
 #### 3. Light-weight design
 
@@ -60,7 +60,6 @@
 17. 2020-CVPR-[Structured Multi-Hashing for Model Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Eban_Structured_Multi-Hashing_for_Model_Compression_CVPR_2020_paper.pdf)
 18. 2020-CVPRo-[AdderNet: Do We Really Need Multiplications in Deep Learning?](https://arxiv.org/abs/1912.13200) [[Code](https://github.com/huawei-noah/AdderNet)]
 19. 2020-CVPRo-[Towards Efficient Model Compression via Learned Global Ranking](https://arxiv.org/abs/1904.12368) [[Code](https://github.com/cmu-enyac/LeGR)]
-20. 2020-CVPRo-[HRank: Filter Pruning Using High-Rank Feature Map](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_HRank_Filter_Pruning_Using_High-Rank_Feature_Map_CVPR_2020_paper.pdf) [[Code](https://github.com/lmbxmu/HRank)]
 21. 2020-CVPR-[DMCP: Differentiable Markov Channel Pruning for Neural Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_DMCP_Differentiable_Markov_Channel_Pruning_for_Neural_Networks_CVPR_2020_paper.pdf)
 22. 2020-CVPR-Training Quantized Neural Networks With a Full-Precision Auxiliary Module
 23. 2020-CVPR-Adaptive Loss-aware Quantization for Multi-bit Networks
