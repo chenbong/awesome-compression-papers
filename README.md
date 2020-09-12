@@ -13,32 +13,32 @@
 
 ### 2020-CVPR (41)
 
-#### Pruning
+#### 1. Pruning
 
-##### Filter Pruning
+##### 1.1. Filter Pruning
 
 2. 2020-CVPR-[Learning Filter Pruning Criteria for Deep Convolutional Neural Networks Acceleration](https://he-y.github.io/publication/2020_cvpr_lfpc/2020_CVPR_LFPC.pdf)
 
 6. 2020-CVPR-[Learning Filter Pruning Criteria for Deep Convolutional Neural Networks Acceleration](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Learning_Filter_Pruning_Criteria_for_Deep_Convolutional_Neural_Networks_Acceleration_CVPR_2020_paper.pdf)
 
-##### Weight Pruning
+##### 1.2. Weight Pruning
 
-#### Quantization
+#### 2. Quantization
 
-##### Multi-bit quantization
+##### 2.1 Multi-bit quantization
 
-##### 1-bit quantization
+##### 2.2 1-bit quantization
 
-#### Light-weight design
+#### 3. Light-weight design
 
 1. 2020-CVPR-[GhostNet: More Features from Cheap Operations](https://arxiv.org/abs/1911.11907) [[Code](https://github.com/huawei-noah/ghostnet)]
 
 
-#### Knowledge Distillation
+#### 4. Knowledge Distillation
 
 38. 2020-CVPR-[Online Knowledge Distillation via Collaborative Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Online_Knowledge_Distillation_via_Collaborative_Learning_CVPR_2020_paper.pdf)
 
-#### Tensor Decomposition
+#### 5. Tensor Decomposition
 
 4. 2020-CVPR-[Low-rank Compression of Neural Nets: Learning the Rank of Each Layer](http://graduatestudent.ucmerced.edu/yidelbayev/papers/cvpr20/cvpr20a.pdf)
 
