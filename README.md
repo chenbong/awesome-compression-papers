@@ -2,7 +2,12 @@
 
 - Paper collection about model compression and acceleration:
   - Pruning
+    - Filter Pruning
+    - Weight Pruning
   - Quantization
+    - Multi-bit Quantization
+    - 1-bit Quantization
+  - Light-weight Design
   - Knowledge Distillation
   - Tensor Decomposition
   - ...
@@ -31,7 +36,7 @@
 
 ##### 2.2. 1-bit quantization
 
-#### 3. Light-weight design
+#### 3. Light-weight Design
 
 1. [GhostNet: More Features from Cheap Operations](https://arxiv.org/abs/1911.11907) [[Code](https://github.com/huawei-noah/ghostnet)]
 2. [AdderNet: Do We Really Need Multiplications in Deep Learning?](https://arxiv.org/abs/1912.13200) [[Code](https://github.com/huawei-noah/AdderNet)]
@@ -54,35 +59,35 @@
 
 
 3. 2020-CVPR-[Filter Grafting for Deep Neural Networks](https://arxiv.org/pdf/2001.05868.pdf)
-5. 2020-CVPR-[Structured Compression by Weight Encryption for Unstructured Pruning and Quantization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kwon_Structured_Compression_by_Weight_Encryption_for_Unstructured_Pruning_and_Quantization_CVPR_2020_paper.pdf)
+4. 2020-CVPR-[Structured Compression by Weight Encryption for Unstructured Pruning and Quantization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kwon_Structured_Compression_by_Weight_Encryption_for_Unstructured_Pruning_and_Quantization_CVPR_2020_paper.pdf)
 
-7. 2020-CVPR-[APQ: Joint Search for Network Architecture, Pruning and Quantization Policy](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_APQ_Joint_Search_for_Network_Architecture_Pruning_and_Quantization_Policy_CVPR_2020_paper.pdf)
-8. 2020-CVPR-[Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Group_Sparsity_The_Hinge_Between_Filter_Pruning_and_Decomposition_for_CVPR_2020_paper.pdf) [[Code](https://github.com/ofsoundof/group_sparsity)]
-10. 2020-CVPR-[Multi-Dimensional Pruning: A Unified Framework for Model Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Multi-Dimensional_Pruning_A_Unified_Framework_for_Model_Compression_CVPR_2020_paper.pdf)
-11. 2020-CVPR-[Discrete Model Compression With Resource Constraint for Deep Neural Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_Discrete_Model_Compression_With_Resource_Constraint_for_Deep_Neural_Networks_CVPR_2020_paper.pdf)
-12. 2020-CVPR-[Automatic Neural Network Compression by Sparsity-Quantization Joint Learning: A Constrained Optimization-Based Approach](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Automatic_Neural_Network_Compression_by_Sparsity-Quantization_Joint_Learning_A_Constrained_CVPR_2020_paper.pdf)
-13. 2020-CVPR-[Low-Rank Compression of Neural Nets: Learning the Rank of Each Layer](https://openaccess.thecvf.com/content_CVPR_2020/papers/Idelbayev_Low-Rank_Compression_of_Neural_Nets_Learning_the_Rank_of_Each_CVPR_2020_paper.pdf)
-14. 2020-CVPR-[The Knowledge Within: Methods for Data-Free Model Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Haroush_The_Knowledge_Within_Methods_for_Data-Free_Model_Compression_CVPR_2020_paper.pdf)
-15. 2020-CVPR-[GAN Compression: Efficient Architectures for Interactive Conditional GANs](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_GAN_Compression_Efficient_Architectures_for_Interactive_Conditional_GANs_CVPR_2020_paper.pdf) [[Code](https://github.com/mit-han-lab/gan-compression)]
-16. 2020-CVPR-[Few Sample Knowledge Distillation for Efficient Network Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Few_Sample_Knowledge_Distillation_for_Efficient_Network_Compression_CVPR_2020_paper.pdf)
-17. 2020-CVPR-[Structured Multi-Hashing for Model Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Eban_Structured_Multi-Hashing_for_Model_Compression_CVPR_2020_paper.pdf)
-19. 2020-CVPRo-[Towards Efficient Model Compression via Learned Global Ranking](https://arxiv.org/abs/1904.12368) [[Code](https://github.com/cmu-enyac/LeGR)]
-22. 2020-CVPR-Training Quantized Neural Networks With a Full-Precision Auxiliary Module
-23. 2020-CVPR-Adaptive Loss-aware Quantization for Multi-bit Networks
-24. 2020-CVPR-ZeroQ: A Novel Zero Shot Quantization Framework
-25. 2020-CVPR-BiDet: An Efficient Binarized Object Detector
-26. 2020-CVPR-Forward and Backward Information Retention for Accurate Binary Neural Networks
-27. 2020-CVPR-Binarizing MobileNet via Evolution-Based Searching
-28. 2020-CVPR-[Collaborative Distillation for Ultra-Resolution Universal Style Transfer](https://arxiv.org/abs/2003.08436) [[Code](https://github.com/MingSun-Tse/Collaborative-Distillation)]
-30. 2020-CVPR-[Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252) [[Code](https://github.com/google-research/noisystudent)]
-31. 2020-CVPR-[Neural Networks Are More Productive Teachers Than Human Raters: Active Mixup for Data-Efficient Knowledge Distillation From a Blackbox Model](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Neural_Networks_Are_More_Productive_Teachers_Than_Human_Raters_Active_CVPR_2020_paper.pdf)
-32. 2020-CVPR-[Heterogeneous Knowledge Distillation Using Information Flow Modeling](https://openaccess.thecvf.com/content_CVPR_2020/papers/Passalis_Heterogeneous_Knowledge_Distillation_Using_Information_Flow_Modeling_CVPR_2020_paper.pdf)
-34. 2020-CVPR-[Revisiting Knowledge Distillation via Label Smoothing Regularization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yuan_Revisiting_Knowledge_Distillation_via_Label_Smoothing_Regularization_CVPR_2020_paper.pdf)
-35. 2020-CVPR-[Distilling Knowledge From Graph Convolutional Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Distilling_Knowledge_From_Graph_Convolutional_Networks_CVPR_2020_paper.pdf)
-36. 2020-CVPR-[MineGAN: Effective Knowledge Transfer From GANs to Target Domains With Few Images](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_MineGAN_Effective_Knowledge_Transfer_From_GANs_to_Target_Domains_With_CVPR_2020_paper.pdf) [[Code](https://github.com/yaxingwang/MineGAN)]
-39. 2020-CVPR-[Distilling Cross-Task Knowledge via Relationship Matching](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Distilling_Cross-Task_Knowledge_via_Relationship_Matching_CVPR_2020_paper.pdf)
-40. 2020-CVPR-[Data-Free Knowledge Amalgamation via Group-Stack Dual-GAN](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Data-Free_Knowledge_Amalgamation_via_Group-Stack_Dual-GAN_CVPR_2020_paper.pdf)
-42. ...
+5. 2020-CVPR-[APQ: Joint Search for Network Architecture, Pruning and Quantization Policy](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_APQ_Joint_Search_for_Network_Architecture_Pruning_and_Quantization_Policy_CVPR_2020_paper.pdf)
+6. 2020-CVPR-[Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Group_Sparsity_The_Hinge_Between_Filter_Pruning_and_Decomposition_for_CVPR_2020_paper.pdf) [[Code](https://github.com/ofsoundof/group_sparsity)]
+7. 2020-CVPR-[Multi-Dimensional Pruning: A Unified Framework for Model Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Multi-Dimensional_Pruning_A_Unified_Framework_for_Model_Compression_CVPR_2020_paper.pdf)
+8. 2020-CVPR-[Discrete Model Compression With Resource Constraint for Deep Neural Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_Discrete_Model_Compression_With_Resource_Constraint_for_Deep_Neural_Networks_CVPR_2020_paper.pdf)
+9. 2020-CVPR-[Automatic Neural Network Compression by Sparsity-Quantization Joint Learning: A Constrained Optimization-Based Approach](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Automatic_Neural_Network_Compression_by_Sparsity-Quantization_Joint_Learning_A_Constrained_CVPR_2020_paper.pdf)
+10. 2020-CVPR-[Low-Rank Compression of Neural Nets: Learning the Rank of Each Layer](https://openaccess.thecvf.com/content_CVPR_2020/papers/Idelbayev_Low-Rank_Compression_of_Neural_Nets_Learning_the_Rank_of_Each_CVPR_2020_paper.pdf)
+11. 2020-CVPR-[The Knowledge Within: Methods for Data-Free Model Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Haroush_The_Knowledge_Within_Methods_for_Data-Free_Model_Compression_CVPR_2020_paper.pdf)
+12. 2020-CVPR-[GAN Compression: Efficient Architectures for Interactive Conditional GANs](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_GAN_Compression_Efficient_Architectures_for_Interactive_Conditional_GANs_CVPR_2020_paper.pdf) [[Code](https://github.com/mit-han-lab/gan-compression)]
+13. 2020-CVPR-[Few Sample Knowledge Distillation for Efficient Network Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Few_Sample_Knowledge_Distillation_for_Efficient_Network_Compression_CVPR_2020_paper.pdf)
+14. 2020-CVPR-[Structured Multi-Hashing for Model Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Eban_Structured_Multi-Hashing_for_Model_Compression_CVPR_2020_paper.pdf)
+15. 2020-CVPRo-[Towards Efficient Model Compression via Learned Global Ranking](https://arxiv.org/abs/1904.12368) [[Code](https://github.com/cmu-enyac/LeGR)]
+16. 2020-CVPR-Training Quantized Neural Networks With a Full-Precision Auxiliary Module
+17. 2020-CVPR-Adaptive Loss-aware Quantization for Multi-bit Networks
+18. 2020-CVPR-ZeroQ: A Novel Zero Shot Quantization Framework
+19. 2020-CVPR-BiDet: An Efficient Binarized Object Detector
+20. 2020-CVPR-Forward and Backward Information Retention for Accurate Binary Neural Networks
+21. 2020-CVPR-Binarizing MobileNet via Evolution-Based Searching
+22. 2020-CVPR-[Collaborative Distillation for Ultra-Resolution Universal Style Transfer](https://arxiv.org/abs/2003.08436) [[Code](https://github.com/MingSun-Tse/Collaborative-Distillation)]
+23. 2020-CVPR-[Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252) [[Code](https://github.com/google-research/noisystudent)]
+24. 2020-CVPR-[Neural Networks Are More Productive Teachers Than Human Raters: Active Mixup for Data-Efficient Knowledge Distillation From a Blackbox Model](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Neural_Networks_Are_More_Productive_Teachers_Than_Human_Raters_Active_CVPR_2020_paper.pdf)
+25. 2020-CVPR-[Heterogeneous Knowledge Distillation Using Information Flow Modeling](https://openaccess.thecvf.com/content_CVPR_2020/papers/Passalis_Heterogeneous_Knowledge_Distillation_Using_Information_Flow_Modeling_CVPR_2020_paper.pdf)
+26. 2020-CVPR-[Revisiting Knowledge Distillation via Label Smoothing Regularization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yuan_Revisiting_Knowledge_Distillation_via_Label_Smoothing_Regularization_CVPR_2020_paper.pdf)
+27. 2020-CVPR-[Distilling Knowledge From Graph Convolutional Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Distilling_Knowledge_From_Graph_Convolutional_Networks_CVPR_2020_paper.pdf)
+28. 2020-CVPR-[MineGAN: Effective Knowledge Transfer From GANs to Target Domains With Few Images](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_MineGAN_Effective_Knowledge_Transfer_From_GANs_to_Target_Domains_With_CVPR_2020_paper.pdf) [[Code](https://github.com/yaxingwang/MineGAN)]
+29. 2020-CVPR-[Distilling Cross-Task Knowledge via Relationship Matching](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Distilling_Cross-Task_Knowledge_via_Relationship_Matching_CVPR_2020_paper.pdf)
+30. 2020-CVPR-[Data-Free Knowledge Amalgamation via Group-Stack Dual-GAN](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Data-Free_Knowledge_Amalgamation_via_Group-Stack_Dual-GAN_CVPR_2020_paper.pdf)
+31. ...
 
 
 
@@ -517,8 +522,6 @@ https://github.com/danielmcpark/awesome-pruning-acceleration
 https://github.com/csyhhu/Awesome-Deep-Neural-Network-Compression
 
 https://github.com/he-y/Awesome-Pruning
-
-
 
 
 
