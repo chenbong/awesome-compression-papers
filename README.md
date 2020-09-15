@@ -129,11 +129,17 @@
 5. 2020-ICML-[Network Pruning by Greedy Subnetwork Selection](https://arxiv.org/abs/2003.01794)
 6. 2020-ICML-[AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks](https://arxiv.org/abs/2006.08198)
 7. 2020-ICML-[Adversarial Neural Pruning with Latent Vulnerability Suppression](https://arxiv.org/abs/1908.04355)
-8. 2020-ICML-Feature-map-level Online Adversarial Knowledge Distillation
-9. 2020-ICML-Knowledge transfer with jacobian matching
-10. 2020-ICML-Good Subnetworks Provably Exist Pruning via Greedy Forward Selection
-11. 2020-ICML-Training Binary Neural Networks through Learning with Noisy Supervision
-12. ...
+8. 2020-ICML-[Feature-map-level Online Adversarial Knowledge Distillation](http://arxiv.org/abs/2002.01775v3)
+9. 2020-ICML-[Knowledge transfer with jacobian matching](https://arxiv.org/abs/1803.00443v1)
+10. 2020-ICML-[Good Subnetworks Provably Exist Pruning via Greedy Forward Selection](https://arxiv.org/abs/2003.01794v2)
+11. 2020-ICML-[Training Binary Neural Networks through Learning with Noisy Supervision](https://proceedings.icml.cc/paper/2020/hash/fc221309746013ac554571fbd180e1c8)
+12. 2020-ICML-[Multi-Precision Policy Enforced Training (MuPPET) : A Precision-Switching Strategy for Quantised Fixed-Point Training of CNNs](https://proceedings.icml.cc/paper/2020/hash/dfb84a11f431c62436cfb760e30a34fe)
+13. 2020-ICML-[Divide and Conquer: Leveraging Intermediate Feature Representations for Quantized Training of Neural Networks](https://arxiv.org/abs/1906.06033v4)
+14. 2020-ICML-[Feature Quantization Improves GAN Training](https://arxiv.org/abs/2004.02088v2) [[code](https://github.com/YangNaruto/FQ-GAN)]
+15. 2020-ICML-[Towards Accurate Post-training Network Quantization via Bit-Split and Stitching](https://proceedings.icml.cc/paper/2020/hash/8d5e957f297893487bd98fa830fa6413)
+16. 2020-ICML-[Accelerating Large-Scale Inference with Anisotropic Vector Quantization](http://arxiv.org/abs/1908.10396v4)
+17. 2020-ICML-[Differentiable Product Quantization for Learning Compact Embedding Layers](http://arxiv.org/abs/1908.09756v3) [[code](https://github.com/chentingpc/dpq_embedding_compression)]
+18. 2020-ICML-[Up or Down? Adaptive Rounding for Post-Training Quantization](https://arxiv.org/abs/2004.10568v2)
 
 
 
@@ -157,17 +163,20 @@
 16. 2020-ICLR-A Signal Propagation Perspective for Pruning Neural Networks at Initialization
 17. 2020-ICLR-Linear Symmetric Quantization of Neural Networks for Low-precision Integer Hardware
 18. 2020-ICLR-AutoQ: Automated Kernel-Wise Neural Network Quantization
-19. 2020-ICLR-Additive Powers-of-Two Quantization: A Non-uniform Discretization for Neural Networks
-20. 2020-ICLR-Learned Step Size Quantization
-21. 2020-ICLR-Sampling-Free Learning of Bayesian Quantized Neural Networks
-22. 2020-ICLR-Gradient $\ell_1$ Regularization for Quantization Robustness
-23. 2020-ICLR-BinaryDuo: Reducing Gradient Mismatch in Binary Activation Network by Coupling Binary Activations
-24. 2020-ICLR-Training binary neural networks with real-to-binary convolutions
-25. 2020-ICLR-Critical initialisation in continuous approximations of binary neural networks
-26. [2020-ICLR-Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://arxiv.org/abs/2003.02389)
-27. [2020-ICLR-ProxSGD: Training Structured Neural Networks under Regularization and Constraints](https://openreview.net/forum?id=HygpthEtvr)
+19. 2020-ICLR-[Additive Powers-of-Two Quantization: A Non-uniform Discretization for Neural Networks](https://arxiv.org/abs/1909.13144v2)
+20. 2020-ICLR-[Learned Step Size Quantization](https://arxiv.org/abs/1902.08153v3)
+21. 2020-ICLR-[Sampling-Free Learning of Bayesian Quantized Neural Networks](https://arxiv.org/abs/1912.02992v1)
+22. 2020-ICLR-[Gradient $\ell_1$ Regularization for Quantization Robustness](https://arxiv.org/abs/2002.07520v1)
+23. 2020-ICLR-[BinaryDuo: Reducing Gradient Mismatch in Binary Activation Network by Coupling Binary Activations](https://openreview.net/forum?id=r1x0lxrFPS) [[code](https://github.com/Hyungjun-K1m/BinaryDuo)]
+24. 2020-ICLR-[Training binary neural networks with real-to-binary convolutions](https://arxiv.org/abs/2003.11535v1) [[code]](https://github.com/brais-martinez/real2binary)
+25. 2020-ICLR-[Critical initialisation in continuous approximations of binary neural networks](https://arxiv.org/abs/1902.00177v2)
+26. 2020-ICLR-[Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://arxiv.org/abs/2003.02389)
+27. 2020-ICLR-[ProxSGD: Training Structured Neural Networks under Regularization and Constraints](https://openreview.net/forum?id=HygpthEtvr)
 28. ...
 
+### 2020-AAAI (1)
+
+1. 2020-AAAI-[Binarized Neural Architecture Search](https://arxiv.org/abs/1911.10862v2)
 
 
 ## 2019
