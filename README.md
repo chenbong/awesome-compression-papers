@@ -1,23 +1,23 @@
 # Awesome Compression Papers
 
 - Paper collection about model compression and acceleration:
-  - 1. Pruning
+  - 1.Pruning
     
     - 1.1. Filter Pruning
     - 1.2. Weight Pruning
     
-  - 2. Quantization
+  - 2.Quantization
     
     - 2.1. Multi-bit Quantization
     - 2.2. 1-bit Quantization
     
-  - 3. Light-weight Design
+  - 3.Light-weight Design
   
-  - 4. Knowledge Distillation
+  - 4.Knowledge Distillation
   
-  - 5. Tensor Decomposition
+  - 5.Tensor Decomposition
   
-  - 6. Other
+  - 6.Other
 
 
 
