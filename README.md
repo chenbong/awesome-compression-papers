@@ -133,7 +133,7 @@
 
 ### 2020-NIPS
 
-- 2020-NIPS-[Rotated Binary Neural Network](https://arxiv.org/abs/2009.13055v2)[[code](https://github.com/lmbxmu/RBNN)]
+- 2020-NIPS-[Rotated Binary Neural Network](https://arxiv.org/abs/2009.13055v2) [[code](https://github.com/lmbxmu/RBNN)]
 
 
 
@@ -175,11 +175,11 @@
 - 2020-ICLR-[Dynamic Sparse Training: Find Efficient Sparse Network From Scratch With Trainable Masked Layers](https://openreview.net/forum?id=SJlbGJrtDB)
 - 2020-ICLR-[Scalable Model Compression by Entropy Penalized Reparameterization](https://openreview.net/forum?id=HkgxW0EYDS)
 - 2020-ICLR-[One-shot Pruning of Recurrent Neural Neworks by Jacobian Spectrum Evaluation](https://openreview.net/pdf?id=r1e9GCNKvH)
-- 2020-ICLR-Mixed Precision DNNs: All you need is a good parametrization
-- 2020-ICLR-Comparing Fine-tuning and Rewinding in Neural Network Pruning
-- 2020-ICLR-A Signal Propagation Perspective for Pruning Neural Networks at Initialization
-- 2020-ICLR-Linear Symmetric Quantization of Neural Networks for Low-precision Integer Hardware
-- 2020-ICLR-AutoQ: Automated Kernel-Wise Neural Network Quantization
+- 2020-ICLR-[Mixed Precision DNNs: All you need is a good parametrization](https://arxiv.org/abs/1905.11452v3)
+- 2020-ICLR-[Comparing Fine-tuning and Rewinding in Neural Network Pruning](https://arxiv.org/abs/2003.02389v1)
+- 2020-ICLR-[A Signal Propagation Perspective for Pruning Neural Networks at Initialization](https://arxiv.org/abs/1906.06307v2)
+- 2020-ICLR-[Linear Symmetric Quantization of Neural Networks for Low-precision Integer Hardware](https://openreview.net/forum?id=H1lBj2VFPS)
+- 2020-ICLR-[AutoQ: Automated Kernel-Wise Neural Network Quantization](https://arxiv.org/abs/1902.05690v3)
 - 2020-ICLR-[Additive Powers-of-Two Quantization: A Non-uniform Discretization for Neural Networks](https://arxiv.org/abs/1909.13144v2)
 - 2020-ICLR-[Learned Step Size Quantization](https://arxiv.org/abs/1902.08153v3)
 - 2020-ICLR-[Sampling-Free Learning of Bayesian Quantized Neural Networks](https://arxiv.org/abs/1912.02992v1)
