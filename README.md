@@ -84,7 +84,7 @@
 - 2020-CVPRo-[Towards Efficient Model Compression via Learned Global Ranking](https://arxiv.org/abs/1904.12368) [[Code](https://github.com/cmu-enyac/LeGR)]
 - 2020-CVPR-Training Quantized Neural Networks With a Full-Precision Auxiliary Module
 - 2020-CVPR-Adaptive Loss-aware Quantization for Multi-bit Networks
-- 2020-CVPR-ZeroQ: A Novel Zero Shot Quantization Framework
+- 2020-CVPR-[ZeroQ: A Novel Zero Shot Quantization Framework](https://arxiv.org/abs/2001.00281v1)
 - 2020-CVPR-BiDet: An Efficient Binarized Object Detector
 - 2020-CVPR-Forward and Backward Information Retention for Accurate Binary Neural Networks
 - 2020-CVPR-Binarizing MobileNet via Evolution-Based Searching
