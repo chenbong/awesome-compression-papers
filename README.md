@@ -135,6 +135,8 @@
 
 - 2020-NIPS-[Rotated Binary Neural Network](https://arxiv.org/abs/2009.13055v2) [[code](https://github.com/lmbxmu/RBNN)]
 - 2020-NIPS-[Path Sample-Analytic Gradient Estimators for Stochastic Binary Networks](https://arxiv.org/abs/2006.03143v1) 
+- 2020-NIPS-[Efficient Exact Verification of Binarized Neural Networks](https://arxiv.org/abs/2005.03597v1)
+- 2020-NIPS-[Reintroducing Straight-Through Estimators asPrincipled Methods for Stochastic Binary Networks](https://arxiv.org/abs/2006.06880v1)
 
 
 
