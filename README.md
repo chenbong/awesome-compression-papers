@@ -82,12 +82,12 @@
 - 2020-CVPR-[Few Sample Knowledge Distillation for Efficient Network Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Few_Sample_Knowledge_Distillation_for_Efficient_Network_Compression_CVPR_2020_paper.pdf)
 - 2020-CVPR-[Structured Multi-Hashing for Model Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Eban_Structured_Multi-Hashing_for_Model_Compression_CVPR_2020_paper.pdf)
 - 2020-CVPRo-[Towards Efficient Model Compression via Learned Global Ranking](https://arxiv.org/abs/1904.12368) [[Code](https://github.com/cmu-enyac/LeGR)]
-- 2020-CVPR-Training Quantized Neural Networks With a Full-Precision Auxiliary Module
-- 2020-CVPR-Adaptive Loss-aware Quantization for Multi-bit Networks
+- 2020-CVPR-[Training Quantized Neural Networks With a Full-Precision Auxiliary Module](https://arxiv.org/abs/1903.11236v3)
+- 2020-CVPR-[Adaptive Loss-aware Quantization for Multi-bit Networks](https://arxiv.org/abs/1912.08883v4)
 - 2020-CVPR-[ZeroQ: A Novel Zero Shot Quantization Framework](https://arxiv.org/abs/2001.00281v1)
-- 2020-CVPR-BiDet: An Efficient Binarized Object Detector
-- 2020-CVPR-Forward and Backward Information Retention for Accurate Binary Neural Networks
-- 2020-CVPR-Binarizing MobileNet via Evolution-Based Searching
+- 2020-CVPR-[BiDet: An Efficient Binarized Object Detector](https://arxiv.org/abs/2003.03961v1) [[code](https://github.com/ZiweiWangTHU/BiDet)]
+- 2020-CVPR-[Forward and Backward Information Retention for Accurate Binary Neural Networks](https://arxiv.org/abs/1909.10788v4)
+- 2020-CVPR-[Binarizing MobileNet via Evolution-Based Searching](https://arxiv.org/abs/2005.06305v2)
 - 2020-CVPR-[Collaborative Distillation for Ultra-Resolution Universal Style Transfer](https://arxiv.org/abs/2003.08436) [[Code](https://github.com/MingSun-Tse/Collaborative-Distillation)]
 - 2020-CVPR-[Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252) [[Code](https://github.com/google-research/noisystudent)]
 - 2020-CVPR-[Neural Networks Are More Productive Teachers Than Human Raters: Active Mixup for Data-Efficient Knowledge Distillation From a Blackbox Model](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Neural_Networks_Are_More_Productive_Teachers_Than_Human_Raters_Active_CVPR_2020_paper.pdf)
