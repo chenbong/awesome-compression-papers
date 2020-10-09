@@ -163,14 +163,14 @@
 - 2020-NIPS-Knowledge Distillation in Wide Neural Networks: Risk Bound, Data Efficiency and Imperfect Teacher
 - 2020-NIPS-Task-Oriented Feature Distillation
 - 2020-NIPS-Cream of the Crop: Distilling Prioritized Paths For One-Shot Neural Architecture Search
-- 2020-NIPS-Self-Distillation Amplifies Regularization in Hilbert Space
-- 2020-NIPS-MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers
+- 2020-NIPS-[Self-Distillation Amplifies Regularization in Hilbert Space](https://arxiv.org/pdf/2002.05715)
+- 2020-NIPS-[MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers](https://arxiv.org/pdf/2002.10957)
 - 2020-NIPS-[Self-Distillation as Instance-Specific Label Smoothing](https://arxiv.org/pdf/2006.05065)
 - 2020-NIPS-Agree to Disagree: Adaptive Ensemble Knowledge Distillation in Gradient Space
 - 2020-NIPS-Distributed Distillation for On-Device Learning
 - 2020-NIPS-Residual Distillation: Towards Portable Deep Neural Networks without Shortcuts
-- 2020-NIPS-Ensemble Distillation for Robust Model Fusion in Federated Learning
-- 2020-NIPS-Fast, Accurate, and Simple Models for Tabular Data via Augmented Distillation
+- 2020-NIPS-[Ensemble Distillation for Robust Model Fusion in Federated Learning](https://arxiv.org/pdf/2006.07242)
+- 2020-NIPS-[Fast, Accurate, and Simple Models for Tabular Data via Augmented Distillation](https://arxiv.org/pdf/2006.14284)
 
 
 
