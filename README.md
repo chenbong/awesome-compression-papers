@@ -137,6 +137,42 @@
 - 2020-NIPS-[Path Sample-Analytic Gradient Estimators for Stochastic Binary Networks](https://arxiv.org/abs/2006.03143v1) 
 - 2020-NIPS-[Efficient Exact Verification of Binarized Neural Networks](https://arxiv.org/abs/2005.03597v1)
 - 2020-NIPS-[Reintroducing Straight-Through Estimators asPrincipled Methods for Stochastic Binary Networks](https://arxiv.org/abs/2006.06880v1)
+- 2020-NIPS-[Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot]
+- 2020-NIPS-[Network Pruning via Greedy Optimization: Fast Rate and Efficient Algorithm]
+- 2020-NIPS-[Neuron Merging: Compensating for Pruned Neurons]
+- 2020-NIPS-[Scientific Control for Reliable Neural Network Pruning]
+- 2020-NIPS-[Neuron-level Structured Pruning using Polarization Regularizer]
+- 2020-NIPS-[Directional Pruning of Deep Neural Networks]
+- 2020-NIPS-[Storage Efficient and Dynamic Flexible Runtime Channel Pruning via Deep Reinforcement Learning]
+- 2020-NIPS-[Movement Pruning: Adaptive Sparsity by Fine-Tuning]
+- 2020-NIPS-[The Generalization-Stability Tradeoff In Neural Network Pruning]
+- 2020-NIPS-[Pruning neural networks without any data by conserving synaptic flow]
+- 2020-NIPS-[Network Pruning via Greedy Optimization: Fast Rate and Efficient Algorithms]
+- 2020-NIPS-[HYDRA: Pruning Adversarially Robust Neural Networks]
+- 2020-NIPS-[Logarithmic Pruning is All You Need]
+- 2020-NIPS-[Pruning Filter in Filter]
+- 2020-NIPS-[Bayesian Bits: Unifying Quantization and Pruning]
+- 2020-NIPS-[Searching for Low-Bit Weights in Quantized Neural Networks]
+- 2020-NIPS-[Robust Quantization: One Model to Rule Them All]
+- 2020-NIPS-[Position-based Scaled Gradient for Model Quantization and Sparse Training]
+- 2020-NIPS-[Universally Quantized Neural Compression]
+- 2020-NIPS-[FleXOR: Trainable Fractional Quantization]
+- 2020-NIPS-[Efficient Exact Verification of Binarized Neural Networks]
+- 2020-NIPS-[Rotated Binary Neural Network]
+- 2020-NIPS-[Path Sample-Analytic Gradient Estimators for Stochastic Binary Networks]
+- 2020-NIPS-[WoodFisher: Efficient Second-Order Approximation for Neural Network Compression]
+- 2020-NIPS-[Knowledge Distillation in Wide Neural Networks: Risk Bound, Data Efficiency and Imperfect Teacher]
+- 2020-NIPS-[Task-Oriented Feature Distillation]
+- 2020-NIPS-[Cream of the Crop: Distilling Prioritized Paths For One-Shot Neural Architecture Search]
+- 2020-NIPS-[Self-Distillation Amplifies Regularization in Hilbert Space]
+- 2020-NIPS-[MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers]
+- 2020-NIPS-[Self-Distillation as Instance-Specific Label Smoothing]
+- 2020-NIPS-[Agree to Disagree: Adaptive Ensemble Knowledge Distillation in Gradient Space]
+- 2020-NIPS-[Distributed Distillation for On-Device Learning]
+- 2020-NIPS-[Residual Distillation: Towards Portable Deep Neural Networks without Shortcuts]
+- 2020-NIPS-[Ensemble Distillation for Robust Model Fusion in Federated Learning]
+- 2020-NIPS-[Fast, Accurate, and Simple Models for Tabular Data via Augmented Distillation]
+
 
 
 
