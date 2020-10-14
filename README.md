@@ -1,4 +1,4 @@
-# Awesome Compression Papers
+# Awesome Compression Papers ![]( https://visitor-badge.glitch.me/badge?page_id=lmbxmu.awesomecompression)
 
 - Paper collection about model compression and acceleration:
   - 1.Pruning
